@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "211689081012",
+    "firebase_url": "https://fir-b5b9e-default-rtdb.firebaseio.com",
+    "project_id": "fir-b5b9e",
+    "storage_bucket": "fir-b5b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211689081012:android:97eeaad74094a4421eafe1",
+        "android_client_info": {
+          "package_name": "com.example.democloudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9E3KF3DjQrj0lUqSt5NJslyxJARPjeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
